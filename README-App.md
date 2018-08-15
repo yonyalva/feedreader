@@ -16,4 +16,4 @@
 
 * download-clone from:
 
-https://github.com/yonyalva/arcade-game.git
+ https://github.com/yonyalva/feedreader.git
